@@ -1,0 +1,14 @@
+{
+  "name": "@jefersonalves/zoomable-fixed-graph-with-images",
+  "main": "e5bce65b6c85d041@255.js",
+  "version": "255.0.0",
+  "homepage": "https://observablehq.com/@jefersonalves/zoomable-fixed-graph-with-images",
+  "author": {
+    "name": "Jeferson Alves",
+    "url": "https://observablehq.com/@jefersonalves"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
